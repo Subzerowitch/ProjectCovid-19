@@ -1,2 +1,3 @@
 # ProjectCovid-19
- Research project made in Azure DS 
+ Research project on Covid-19 data took from the source https://ourworldindata.org/covid-deaths
+
