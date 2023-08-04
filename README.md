@@ -15,6 +15,7 @@ This SQL project aims to analyze COVID-19 data, specifically focusing on infecti
 The dataset used for this project is stored in a SQL Server database named "ProjectCovid-19." It consists of two main tables:
 
 -covid_deaths: Contains information on COVID-19 cases, deaths, and population data.
+
 -covid_vaccinations: Contains data related to COVID-19 vaccinations.
 
 ## Project Objectives:
