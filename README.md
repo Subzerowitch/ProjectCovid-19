@@ -2,7 +2,7 @@
  
  Research project on Covid-19. Source of the dataset: https://ourworldindata.org/covid-deaths
  
- Visualization https://public.tableau.com/app/profile/olena.rubanenko/viz/Covid-19_16878630219010/Dashboard1
+ Visualisation https://public.tableau.com/app/profile/olena.rubanenko/viz/Covid-19_16878630219010/Dashboard1
 
 ## Project Title: COVID-19 Data Analysis using SQL
 
